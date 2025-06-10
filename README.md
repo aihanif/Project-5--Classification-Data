@@ -10,7 +10,7 @@ Objective
 - Choose features CATEGORY_ERROR(CATEGORY_ERROR_PassingParam) because this label is more dominant in dataset.
 - Model Classification will be Logistic Regression,K-NN Model, SVM Model,Naive Bayes, Decision Tree, Random Forest, and Gradient Boosting.
 - Remove features not using anymore
-- Build a model Classificatioon to Predict category of the CATEGORY_ERROR(CATEGORY_ERROR_PassingParam) that will be happen
+- Build a model Classification to Predict category of the CATEGORY_ERROR(CATEGORY_ERROR_PassingParam) that will be happen
 - Train and Test
 - Evaluate The Model
 - For Learning Purposes
