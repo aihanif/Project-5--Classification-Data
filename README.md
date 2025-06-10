@@ -2,7 +2,7 @@
 
 Description
 - The Classification model is a supervise learning. this model used for prediction for classification value.
-- In this case, the model is designed to predict the CATEGORY_ERROR_PassingParam. This feature is well-suited for classification , as it involves tre and false value.
+- In this case, the model is designed to predict the CATEGORY_ERROR_PassingParam. This feature is well-suited for classification , as it involves true and false value.
 
 Objective
 - The dataset have multi-label issues,one hot encoding categorical variables.
